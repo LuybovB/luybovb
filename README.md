@@ -13,6 +13,8 @@
 - Linux
 - Docker
 - Docker Compose
+- Django
+- django-bootstrap5
 - Начальные знания английского языка
 
 ## Проекты
